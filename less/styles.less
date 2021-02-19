@@ -1,0 +1,85 @@
+/*!
+ * Copyright (c) 2021 Eclipse Foundation, Inc.
+ * 
+ * This program and the accompanying materials are made available under the
+ * terms of the Eclipse Public License v. 2.0 which is available at
+ * http://www.eclipse.org/legal/epl-2.0.
+ * 
+ * Contributors:
+ *   Christopher Guindon <chris.guindon@eclipse-foundation.org>
+ * 
+ * SPDX-License-Identifier: EPL-2.0
+*/
+
+@import '~eclipsefdn-solstice-assets/less/quicksilver/science/styles.less';
+@import '_variables.less';
+
+@import '_components/sidebar.less';
+
+.header-wrapper {
+  .featured-jumbotron {
+    background-image: url('images/asciidoc-slideshow-bg.jpg');
+    background-position: center;
+    .list-inline {
+      margin-top: 20px;
+    }
+  
+    p {
+      font-weight: 300;
+      &:last-child{
+        margin-bottom:0;
+      }
+    }
+
+    .btn {
+      background-color: @brand-tertiary;
+      border-color: @brand-tertiary;
+      &:hover {
+        background-color: @brand-quaternary;
+        border-color: @brand-quaternary;
+      }
+    }
+
+    h1 {
+      margin-bottom:10px;
+      margin-top:50px;
+      &:after {
+        display:none;
+      }
+    }
+  }
+}
+
+.featured-side a{
+  float:none;
+}
+
+.news-list .news-list-col {
+  margin-bottom:0;
+  padding-bottom:0;
+  h2.heading-line  {
+    text-align:center;
+    border-bottom: 1px solid @border-color;
+    padding-bottom: 5px;
+  }
+}
+
+.event-container {
+  h3 {
+    font-size: 19px;
+  }
+}
+
+#members {
+  .members-container {
+    flex-wrap: wrap;
+  }
+}
+
+.featured-footer{
+  margin-top:50px;
+}
+
+.logo-eclipse-default-mobile {
+  max-width:165px;
+}

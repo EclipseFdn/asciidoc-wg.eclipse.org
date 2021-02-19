@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is asciidoc.eclipse.org Working Group?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p>@todo<p>"
+    }
+  },{
+    "@type": "Question",
+    "name": "q1",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<p>@todo<p>"    }
+  }]
+}

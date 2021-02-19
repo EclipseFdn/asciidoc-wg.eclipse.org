@@ -1,0 +1,114 @@
+baseurl = "https://asciidoc.eclipse.org/"
+DefaultContentLanguage = "en"
+title = "AsciiDoc Working Group"
+theme = "eclipsefdn-hugo-solstice-theme"
+metaDataFormat = "yaml"
+disableKinds = []
+themesDir = "node_modules/"
+enableRobotsTXT = true
+pluralizeListTitles = false
+
+[Params]
+  google_tag_manager = "GTM-5WLCZXC"
+  description = "The AsciiDoc Working Group drives the standardization, adoption, and evolution of AsciiDoc. This group encourages and shapes the open, collaborative development of the AsciiDoc language and its processors."
+  seo_title_suffix = " | The Eclipse Foundation"
+  keywords = ["eclipse asciidoc", "asciidoc"]
+  gcse = "011805775785170369411:p3ec0igo0qq"
+  js = "js/solstice.js"
+  logo = "images/logo/wg_asciidoc.svg"
+  styles = "css/styles.css"
+# favicon = "images/favicon.ico"
+# share_img = ""
+# header_wrapper_class = ""
+  logo_width = "165"
+# header_left_classes = ""
+# main_menu_wrapper_classes = ""
+  featured_content_publish_target = "asciidoc"
+#  call_for_action_text = "Download"
+#  call_for_action_url = "//www.eclipse.org/downloads/"
+#  call_for_action_icon = "fa-download"
+#  twitter_url = ""
+#  linkedin_url = ""
+#  youtube_url = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  membership_level = "membership_levels"
+  participation_level = "participation_levels"
+
+[Author]
+  name = "Christopher Guindon"
+  website = "https://www.eclipse.org"
+  email = "webdev@eclipse-foundation.org"
+  facebook = "eclipse.org"
+  twitter = "EclipseFdn"
+  youtube = "EclipseFdn"
+  googleplus = "+Eclipse"
+  linkedin = "company/eclipse-foundation/"
+
+[permalinks]
+  news = "/:sections/:year/:month/:day/:slug/"
+
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 1
+ 
+[[menu.main]]
+  name = "About Us"
+  parent = "About"
+  url = "/about"
+  weight = 1
+  
+[[menu.main]]
+  name = "FAQ"
+  parent = "About"
+  url = "/about/faq"
+  weight = 2
+
+[[menu.sidebar]]
+  name = "About"
+  url = "/about"
+  weight = 2
+  identifier = "about"
+  
+[[menu.sidebar]]
+  parent ="about"
+  name = "About Us"
+  url = "/about"
+  pre = "<i data-feather=\"users\"></i>" # https://feathericons.com/
+  weight = 1
+  
+[[menu.sidebar]]
+  parent ="about"
+  name = "FAQ"
+  url = "/about/faq"
+  pre = "<i data-feather=\"help-circle\"></i>" # https://feathericons.com/
+  weight = 2
+
+[[menu.main]]
+  name = "Members"
+  url = "/membership"
+  weight = 1
+
+[[menu.sidebar]]
+  name = "Members"
+  url = "/membership/"
+  weight = 2
+  identifier = "membership"
+  
+[[menu.sidebar]]
+  parent ="membership"
+  name = "Membership Benefits"
+  url = "/membership/#benefits"
+  pre = "<i data-feather=\"award\"></i>"
+  weight = 1
+
+[[menu.sidebar]]
+  parent ="membership"
+  name = "Explore Our Members"
+  url = "/membership/members/"
+  pre = "<i data-feather=\"zap\"></i>"
+  weight = 2

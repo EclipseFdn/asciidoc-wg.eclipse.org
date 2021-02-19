@@ -1,0 +1,10 @@
+/node_modules/
+/static/images/vendor/
+/static/fonts/vendor/
+/static/js/
+/static/css/
+/public/
+/layouts/robots.txt
+.idea/**
+**/.DS_Store
+/.project

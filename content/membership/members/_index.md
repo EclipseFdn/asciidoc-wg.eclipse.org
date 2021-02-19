@@ -1,0 +1,14 @@
+---
+title: "Explore Our Members"
+seo_title: "Explore our members - Eclipse AsciiDoc"
+description: "Discover our Eclipse AsciiDoc members."
+keywords: ["Eclipse AsciiDoc members", "AsciiDoc open source members", "open source AsciiDoc"]
+aliases:
+    - /members/
+    - /member/
+layout: "members"
+outputs:
+    - HTML
+    - JSON
+    - RSS
+---
