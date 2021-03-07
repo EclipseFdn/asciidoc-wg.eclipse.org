@@ -8,6 +8,4 @@ layout: "section"
   
 Last Updated: @todo
 
-<br/>
-
 {{< faq >}}

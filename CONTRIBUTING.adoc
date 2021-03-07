@@ -1,18 +1,18 @@
-# Contributing to asciidoc.eclipse.org
+= Contributing to asciidoc.eclipse.org
 
 Thanks for your interest in this project.
 
-## Project description
+== Project description
 
 * https://github.com/EclipseFdn/asciidoc.eclipse.org
 
-## Developer resources
+== Developer resources
 
 The project maintains the following source code repositories
 
 * https://github.com/EclipseFdn/asciidoc.eclipse.org
 
-## Eclipse Contributor Agreement
+== Eclipse Contributor Agreement
 
 Before your contribution can be accepted by the project team contributors must
 electronically sign the Eclipse Contributor Agreement (ECA).
@@ -28,6 +28,6 @@ Contributor Agreement (ECA) on file.
 For more information, please see the Eclipse Committer Handbook:
 https://www.eclipse.org/projects/handbook/#resources-commit
 
-## Contact
+== Contact
 
 Contact the Eclipse Foundation Webdev team via webdev@eclipse-foundation.org.

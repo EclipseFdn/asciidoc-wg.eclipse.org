@@ -1,0 +1,76 @@
+= asciidoc.eclipse.org
+
+The https://asciidoc.eclipse.org website is generated with https://gohugo.io/documentation/[Hugo].
+
+The AsciiDoc Working Group drives the standardization, adoption, and evolution of AsciiDoc. This group encourages and shapes the open, collaborative development of the AsciiDoc language and its processors.
+
+image:https://travis-ci.org/eclipsefdn/asciidoc.eclipse.org.svg?branch=master[Build Status,link=https://travis-ci.org/eclipsefdn/asciidoc.eclipse.org]
+
+== Getting started
+
+=== Prerequisites
+
+The following pre-requisites are necessary to create a local preview of the site.
+If you only want to change content without a local preview, only a text editor is necessary to change content.
+
+* Node and NPM (LTS 14.x) to install resources and dependencies - see https://nodejs.org/
+* Hugo to render site from templates and content - see https://gohugo.io/
+* Asciidoctor to transform AsciiDoc content to HTML - see https://asciidoctor.org/
+
+=== Running a local preview of the site
+
+Install dependencies, build assets and start a webserver:
+
+[source,bash]
+----
+npm install && hugo server --destination=public
+----
+
+You can find guidance on the page-level metadata https://eclipsefdn-hugo-solstice-theme.netlify.app/[here], and examples of the assorted page types (components) https://eclipsefdn-hugo-solstice-theme.netlify.app/components/[here].
+
+== Contributing
+
+. https://help.github.com/articles/fork-a-repo/[Fork] the https://github.com/eclipsefdn/asciidoc.eclipse.org[eclipsefdn/asciidoc.eclipse.org] repository
+. Clone repository: `git clone https://github.com/[your_github_username]/asciidoc.eclipse.org.git`
+. Create your feature branch: `git checkout -b my-new-feature`
+. Commit your changes: `git commit -m &#39;Add some feature&#39; -s`
+. Push feature branch: `git push origin my-new-feature`
+. Submit a pull request
+
+=== Declared Project Licenses
+
+This program and the accompanying materials are made available under the terms
+of the Eclipse Public License v. 2.0 which is available at
+https://www.eclipse.org/legal/epl-2.0.
+
+SPDX-License-Identifier: EPL-2.0
+
+== Related projects
+
+=== https://github.com/EclipseFdn/solstice-assets[EclipseFdn/solstice-assets]
+
+Images, less and JavaScript files for the Eclipse Foundation look and feel.
+
+=== https://github.com/EclipseFdn/hugo-solstice-theme[EclipseFdn/hugo-solstice-theme]
+
+Hugo theme of the Eclipse Foundation look and feel.
+
+== Bugs and feature requests
+
+Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, https://github.com/eclipsefdn/asciidoc.eclipse.org/issues/new[please open a new issue].
+
+== Author
+
+*Christopher Guindon (Eclipse Foundation)*
+
+* https://twitter.com/chrisguindon
+* https://github.com/chrisguindon
+
+== Trademarks
+
+* Eclipse® is a Trademark of the Eclipse Foundation, Inc.
+* Eclipse Foundation is a Trademark of the Eclipse Foundation, Inc.
+
+== Copyright and license
+
+Copyright 2021 the https://www.eclipse.org["Eclipse Foundation, Inc."] and the https://github.com/eclipsefdn/asciidoc.eclipse.org/graphs/contributors[asciidoc.eclipse.org authors]. Code released under the https://github.com/eclipsefdn/asciidoc.eclipse.org/blob/src/LICENSE[Eclipse Public License Version 2.0 (EPL-2.0)].
