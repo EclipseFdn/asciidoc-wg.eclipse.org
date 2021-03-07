@@ -112,3 +112,7 @@ pluralizeListTitles = false
   url = "/membership/members/"
   pre = "<i data-feather=\"zap\"></i>"
   weight = 2
+
+[markup.asciidocExt]
+  # extensions = ["asciidoctor-html5s", "asciidoctor-diagram"]
+  workingFolderCurrent = true
