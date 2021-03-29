@@ -1,0 +1,7 @@
+---
+title: "News"
+seo_title: "News - AsciiDoc"
+description: "Gain insights into the Eclipse AsciiDoc Working Group"
+keywords: ["Eclipse AsciiDoc", "open source", "open source software"]
+layout: "news"
+---
