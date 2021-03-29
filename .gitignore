@@ -6,5 +6,6 @@
 /public/
 /layouts/robots.txt
 .idea/**
+!.idea/vcs.xml
 **/.DS_Store
 /.project
