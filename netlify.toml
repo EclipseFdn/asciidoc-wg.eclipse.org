@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "bundle && npm run production && hugo --gc --minify -b https://eclipsefdn-asciidoc.netlify.app --destination public"
+command = "bundle && npm run production && hugo --gc --minify -b https://eclipsefdn-asciidoc-wg.netlify.app --destination public"
 
 [build.environment]
 NODE_VERSION = "14.16.0"

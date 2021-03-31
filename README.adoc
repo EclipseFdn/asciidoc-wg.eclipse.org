@@ -1,10 +1,10 @@
-= asciidoc.eclipse.org
+= asciidoc-wg.eclipse.org
 
-The https://asciidoc.eclipse.org website is generated with https://gohugo.io/documentation/[Hugo].
+The https://asciidoc-wg.eclipse.org website is generated with https://gohugo.io/documentation/[Hugo].
 
 The AsciiDoc Working Group drives the standardization, adoption, and evolution of AsciiDoc. This group encourages and shapes the open, collaborative development of the AsciiDoc language and its processors.
 
-image:https://travis-ci.org/eclipsefdn/asciidoc.eclipse.org.svg?branch=master[Build Status,link=https://travis-ci.org/eclipsefdn/asciidoc.eclipse.org]
+image:https://travis-ci.org/eclipsefdn/asciidoc-wg.eclipse.org.svg?branch=master[Build Status,link=https://travis-ci.org/eclipsefdn/asciidoc-wg.eclipse.org]
 
 == Getting started
 
@@ -30,8 +30,8 @@ You can find guidance on the page-level metadata https://eclipsefdn-hugo-solstic
 
 == Contributing
 
-. https://help.github.com/articles/fork-a-repo/[Fork] the https://github.com/eclipsefdn/asciidoc.eclipse.org[eclipsefdn/asciidoc.eclipse.org] repository
-. Clone repository: `git clone https://github.com/[your_github_username]/asciidoc.eclipse.org.git`
+. https://help.github.com/articles/fork-a-repo/[Fork] the https://github.com/eclipsefdn/asciidoc-wg.eclipse.org[eclipsefdn/asciidoc-wg.eclipse.org] repository
+. Clone repository: `git clone https://github.com/[your_github_username]/asciidoc-wg.eclipse.org.git`
 . Create your feature branch: `git checkout -b my-new-feature`
 . Commit your changes: `git commit -m &#39;Add some feature&#39; -s`
 . Push feature branch: `git push origin my-new-feature`
@@ -57,7 +57,7 @@ Hugo theme of the Eclipse Foundation look and feel.
 
 == Bugs and feature requests
 
-Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, https://github.com/eclipsefdn/asciidoc.eclipse.org/issues/new[please open a new issue].
+Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, https://github.com/eclipsefdn/asciidoc-wg.eclipse.org/issues/new[please open a new issue].
 
 == Author
 
@@ -73,4 +73,4 @@ Have a bug or a feature request? Please search for existing and closed issues. I
 
 == Copyright and license
 
-Copyright 2021 the https://www.eclipse.org["Eclipse Foundation, Inc."] and the https://github.com/eclipsefdn/asciidoc.eclipse.org/graphs/contributors[asciidoc.eclipse.org authors]. Code released under the https://github.com/eclipsefdn/asciidoc.eclipse.org/blob/src/LICENSE[Eclipse Public License Version 2.0 (EPL-2.0)].
+Copyright 2021 the https://www.eclipse.org["Eclipse Foundation, Inc."] and the https://github.com/eclipsefdn/asciidoc-wg.eclipse.org/graphs/contributors[asciidoc-wg.eclipse.org authors]. Code released under the https://github.com/eclipsefdn/asciidoc-wg.eclipse.org/blob/main/LICENSE[Eclipse Public License Version 2.0 (EPL-2.0)].

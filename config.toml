@@ -1,4 +1,4 @@
-baseurl = "https://asciidoc.eclipse.org/"
+baseurl = "https://asciidoc-wg.eclipse.org/"
 DefaultContentLanguage = "en"
 title = "AsciiDoc Working Group"
 theme = "eclipsefdn-hugo-solstice-theme"

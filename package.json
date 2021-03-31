@@ -1,16 +1,16 @@
 {
   "name": "eclipsefdn-hugo-asciidoc",
-  "description": "Source code for asciidoc.eclipse.org",
+  "description": "Source code for asciidoc-wg.eclipse.org",
   "main": "webpack.min.js",
   "author": "Christopher Guindon",
   "license": "EPL-2.0",
   "version": "0.0.0",
   "bugs": {
-    "url": "https://github.com/eclipsefdn/asciidoc.eclipse.org/issues"
+    "url": "https://github.com/eclipsefdn/asciidoc-wg.eclipse.org/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/eclipsefdn/asciidoc.eclipse.org.git"
+    "url": "git://github.com/eclipsefdn/asciidoc-wg.eclipse.org.git"
   },
   "scripts": {
     "dev": "NODE_ENV=development webpack --progress --config=node_modules/laravel-mix/setup/webpack.config.js",

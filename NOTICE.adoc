@@ -1,8 +1,8 @@
-= Notices for asciidoc.eclipse.org
+= Notices for asciidoc-wg.eclipse.org
 
 This content is produced and maintained by the Eclipse Foundation.
 
-* Project home: https://github.com/EclipseFdn/asciidoc.eclipse.org
+* Project home: https://github.com/EclipseFdn/asciidoc-wg.eclipse.org
 
 == Trademarks
 
@@ -27,7 +27,7 @@ SPDX-License-Identifier: EPL-2.0
 
 The project maintains the following source code repositories:
 
-* https://github.com/EclipseFdn/asciidoc.eclipse.org
+* https://github.com/EclipseFdn/asciidoc-wg.eclipse.org
 
 == Third-party Content
 
