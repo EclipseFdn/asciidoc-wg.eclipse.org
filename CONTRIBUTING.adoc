@@ -1,16 +1,16 @@
-= Contributing to asciidoc.eclipse.org
+= Contributing to asciidoc-wg.eclipse.org
 
 Thanks for your interest in this project.
 
 == Project description
 
-* https://github.com/EclipseFdn/asciidoc.eclipse.org
+* https://github.com/EclipseFdn/asciidoc-wg.eclipse.org
 
 == Developer resources
 
 The project maintains the following source code repositories
 
-* https://github.com/EclipseFdn/asciidoc.eclipse.org
+* https://github.com/EclipseFdn/asciidoc-wg.eclipse.org
 
 == Eclipse Contributor Agreement
 
