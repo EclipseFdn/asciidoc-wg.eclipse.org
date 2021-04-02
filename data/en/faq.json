@@ -3,16 +3,16 @@
   "@type": "FAQPage",
   "mainEntity": [{
     "@type": "Question",
-    "name": "What is asciidoc-wg.eclipse.org Working Group?",
+    "name": "What is AsciiDoc Working Group?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "<p>@todo<p>"
+      "text": "<p>The AsciiDoc Working Group drives the standardization, adoption, and evolution of AsciiDoc.</p><p>This group encourages and shapes the open, collaborative development of the AsciiDoc language and its processors.</p>"
     }
   },{
     "@type": "Question",
-    "name": "q1",
+    "name": "How and where can I join the discussion?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "<p>@todo<p>"    }
+      "text": "<p>Please join the <a href='https://accounts.eclipse.org/mailing-list/asciidoc-wg'>AsciiDoc WG mailing list</a>.</p>"    }
   }]
 }
