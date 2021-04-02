@@ -102,8 +102,8 @@ enableGitInfo = true
 
 [[menu.sidebar]]
   parent ="membership"
-  name = "Membership Benefits"
-  url = "/membership/#benefits"
+  name = "Membership"
+  url = "/membership"
   pre = "<i data-feather=\"award\"></i>"
   weight = 1
 

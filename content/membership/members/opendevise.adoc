@@ -1,0 +1,27 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "OpenDevise"
+logo: "opendevise" #make sure to have a file named [logo].png in the static/assets/images/members/ folder
+member_type: "participating"
+member_id: 1339
+more_url: "https://opendevise.com/"
+---
+
+// description is taken from eclipse.org
+OpenDevise helps organizations achieve faster growth though better documentation.
+
+**OpenDevise:
+Tools.
+Workflows.
+Information Architecture.**
+
+We develop automated tools and build processes that take the complexity, human effort, and anxiety out of deploying documentation sites.
+OpenDevise is the creator of Antora, a documentation pipeline and site generator that enables technical writers to create, manage, remix, and publish documentation sites composed in AsciiDoc that are sourced from a variety of versioned content repositories.
+
+**DevOps for Documentation Teams**
+
+We upgrade documentation teams to a modern, agile workflow for creating, reviewing, testing, and publishing documentation composed in the lightweight markup language AsciiDoc.
+As the maintainers of the leading AsciiDoc processor, Asciidoctor, we have a deep understanding of how to best integrate and adapt AsciiDoc into your documentation teams workflow.
+OpenDevise helps teams save time, minimize risk, and increase their writing and publishing productivity.
+A few of the ways we assist are through toolchain configuration, publishing pipeline architecture, UI design, and extension development.
+

@@ -1,0 +1,15 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "VMware, Inc."
+logo: "vmware" #make sure to have a file named [logo].png in the static/assets/images/members/ folder
+member_type: "participating"
+member_id: 1437
+more_url: "https://www.vmware.com/"
+---
+
+// description is taken from https://www.vmware.com/company.html
+We believe that software has the power to unlock new possibilities for people and our planet.
+Our software forms a digital foundation that powers the apps, services, and experiences transforming the world.
+
+VMware streamlines the journey for organizations to become digital businesses that deliver better experiences to their customers and empower employees to do their best work.
+Our software spans App Modernization, Cloud, Networking & Security and Digital Workspace.
