@@ -6,5 +6,14 @@ date: 2018-04-05T16:09:45-04:00
 layout: "single"
 ---
 
-The AsciiDoc Working Group drives the standardization, adoption, and evolution of AsciiDoc. This group encourages and shapes the open, collaborative development of the AsciiDoc language and its processors.
+The AsciiDoc Working Group drives the standardization, adoption, and evolution of AsciiDoc.
+This group encourages and shapes the open, collaborative development of the AsciiDoc language and its processors.
 
+To participate in the discussions, please join the mailing lists:
+
+https://accounts.eclipse.org/mailing-list/asciidoc-wg[asciidoc-wg]::
+Discussing vision, scope, and governance of the AsciiDoc Working Group
+
+https://accounts.eclipse.org/mailing-list/asciidoc-lang-dev[asciidoc-lang-dev]::
+Discussing the AsciiDoc Language Project.
+It is all about the AsciiDoc Language Specification, Technology Compatibility Kit (TCK) and end user documentation.
