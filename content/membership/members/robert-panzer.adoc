@@ -1,0 +1,14 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "Robert Panzer"
+gravatar: "9e278b960a0c39aafdadbefe667db79f" # gravatar ID, derived from email address
+member_type: "individualcommitter"
+user_id: 14683
+more_url: "https://twitter.com/bobbytank42"
+---
+
+// description is taken from nomination for steering group committee
+Robert has been involved in the Asciidoctor project since 2014!
+At this time, he is the lead developer for the AsciidoctorJ project.
+
+As a software engineer in Germany Robert is currently working on Service Mesh technology and Kubernetes with previous experience in the JavaEE and banking software space.

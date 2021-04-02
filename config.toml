@@ -55,13 +55,13 @@ pluralizeListTitles = false
   name = "About"
   url = "/about"
   weight = 1
- 
+
 [[menu.main]]
   name = "About Us"
   parent = "About"
   url = "/about"
   weight = 1
-  
+
 [[menu.main]]
   name = "FAQ"
   parent = "About"
@@ -73,14 +73,14 @@ pluralizeListTitles = false
   url = "/about"
   weight = 2
   identifier = "about"
-  
+
 [[menu.sidebar]]
   parent ="about"
   name = "About Us"
   url = "/about"
   pre = "<i data-feather=\"users\"></i>" # https://feathericons.com/
   weight = 1
-  
+
 [[menu.sidebar]]
   parent ="about"
   name = "FAQ"
@@ -98,11 +98,11 @@ pluralizeListTitles = false
   url = "/membership/"
   weight = 2
   identifier = "membership"
-  
+
 [[menu.sidebar]]
   parent ="membership"
-  name = "Membership Benefits"
-  url = "/membership/#benefits"
+  name = "Membership"
+  url = "/membership"
   pre = "<i data-feather=\"award\"></i>"
   weight = 1
 

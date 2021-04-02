@@ -1,0 +1,11 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "Salesforce.com, Inc."
+logo: "salesforce" #make sure to have a file named [logo].png in the static/assets/images/members/ folder
+member_type: "participating"
+member_id: 1220
+more_url: "https://www.vmware.com/"
+---
+
+// description is taken from eclipse.org
+Salesforce is a customer relationship management solution that brings companies and customers together. It's one integrated CRM platform that gives all your departments including marketing, sales, commerce, and service a single, shared view of every customer.

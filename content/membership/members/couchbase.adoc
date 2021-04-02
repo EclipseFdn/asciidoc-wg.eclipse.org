@@ -1,0 +1,15 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "Couchbase"
+logo: "couchbase" #make sure to have a file named [logo].png in the static/assets/images/members/ folder
+member_type: "participating"
+member_id: 1430
+more_url: "https://www.couchbase.com/"
+---
+
+// description is taken from eclipse.org
+Unlike other NoSQL databases, Couchbase provides an enterprise-class, multicloud to edge database that offers the robust capabilities required for business-critical applications on a highly scalable and available platform.
+As a distributed cloud-native database, Couchbase runs in modern dynamic environments and on any cloud, either customer-managed or fully managed as-a-service.
+Couchbase is built on open standards, combining the best of NoSQL with the power and familiarity of SQL, to simplify the transition from mainframe and relational databases.
+
+Couchbase has become pervasive in our everyday lives; our customers include industry leaders Amadeus, American Express, Carrefour, Cisco, Comcast/Sky, Disney, eBay, LinkedIn, Marriott, Tesco, Tommy Hilfiger, United, Verizon, as well as hundreds of other household names.

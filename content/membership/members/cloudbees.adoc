@@ -1,0 +1,13 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "CloudBees Inc."
+logo: "cloudbees" #make sure to have a file named [logo].png in the static/assets/images/members/ folder
+member_type: "participating"
+member_id: 1028
+more_url: "https://cloudbees.com"
+---
+
+// description is taken from eclipse.org
+CloudBees is the hub of enterprise DevOps, providing companies with smarter automation solutions and insights for accelerating software development.
+Our continuous delivery solutions offer developers and enterprises the industry's broadest DevOps portfolio, from on-premise to cloud native, from self-managed to self-service, from guided best practices to flexible choice.
+By making the software delivery process more productive, manageable and hassle-free, CloudBees puts companies on the fastest path to transforming great ideas into great software and returning value to the business more quickly.

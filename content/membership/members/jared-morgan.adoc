@@ -1,0 +1,12 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "Jared Morgan"
+gravatar: "3f7fa472f24ae9ea4caaefd3a669f6ea" # gravatar ID, derived from email address
+member_type: "individualcommitter"
+user_id: 14680
+more_url: "https://twitter.com/jaredmorgs"
+---
+
+// description is taken from nomination for steering group committee
+Jared Morgan is a Technical Writer with over 17 years of experience and has been an AsciiDoc user for seven years.
+Jared has open source experience and has been an open source contributor for 10 years.

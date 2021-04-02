@@ -1,0 +1,22 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "Guillaume Grossetie"
+gravatar: "86ad5b374dd2bf203adaf7f7a9a5a0a8" # gravatar ID, derived from email address
+member_type: "individualcommitter"
+user_id: 14450
+more_url: "https://github.com/Mogztter"
+---
+
+// description is taken from nomination for steering group committee
+Guillaume is an enthusiastic software developer with over a decade of experience in the field
+with a strong Java background. He is curious about and loves to learn new languages, tools,
+and techniques.
+
+In recent years, he has worked in a wide range of projects using a variety of programming
+languages: Java, Scala, Kotlin, JavaScript, Ruby, Go, Python. Guillaume contributes to many
+open-source projects and has been an active member of the Asciidoctor community for 7+ years.
+
+He is currently the lead maintainer of Asciidoctor.js and the creator of the Asciidoctor Browser
+Extension, Asciidoctor Web PDF, AsciiDoc Add-on for Google Docs, and lately Kroki.io and also
+had the opportunity to work as a paid contractor for several clients on Asciidoctor related
+projects.

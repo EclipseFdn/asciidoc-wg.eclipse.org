@@ -1,0 +1,18 @@
+---
+date: "2021-02-11T08:31:18-04:00"
+title: "Alexander Schwartz"
+gravatar: "5f528a3f6814d28b583f31842e3e8d9e" # gravatar ID, derived from email address
+member_type: "individualcommitter"
+user_id: 14369
+more_url: "https://www.ahus1.de"
+---
+
+// description is taken from nomination for steering group committee
+While being a Java and JavaScript developer, Alexander has been using Asciidoctor for several years in various projects for documentation.
+It allows Alexander to write reusable content without distraction.
+At conferences Alexander talks about documentation as code and presents deep-dive talks on AsciiDoc.
+
+In 2014, Alexander made his first contribution to the AsciiDoc plugin for IntelliJ.
+Over time, he dug deeper in the AsciiDoc syntax, investigating how auto-completion could work and what it needs to support writers in an IDE.
+Today Alexander is the current maintainer of the plugin.
+One of his latest contributions was adding Antora support in close cooperation with the community.
