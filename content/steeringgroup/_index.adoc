@@ -1,0 +1,41 @@
+---
+title: "Steering Group"
+seo_title: "Steering Group of the AsciiDoc Working Group"
+description: ""
+keywords: ["AsciiDoc WG Steering Group", "Meeting Minutes"]
+headline: "Define and manage the strategy"
+tagline: ""
+date: 2021-02-10T16:09:45-04:00
+hide_page_title: "true"
+links: [[href: "/membership", text: "Learn about Membership"]]
+---
+
+The Steering Committee members define and manage the strategy of the Working Group and which Eclipse Foundation projects are included within the scope of this Working Group.
+
+Each Partner Member of the Working Group has one appointed seat on the Steering Committee.
+Three elected seats are allocated to Committer Members.
+
+Read more about it in the https://www.eclipse.org/org/workinggroups/asciidoc-charter.php[AsciiDoc Working Group charter].
+
+All steering group meetings are public and will be announced on the https://accounts.eclipse.org/mailing-list/asciidoc-wg[AsciiDoc WG Mailing List].
+
+The Steering Committee consists of:
+
+* Amarantha Kulkarni (Couchbase)
+* https://projects.eclipse.org/user/14176[Dan Allen] (OpenDevise)
+* Jason Porter (Red Hat)
+* Jay Bryant (VMware)
+* https://projects.eclipse.org/user/15332[Steven Anderson] (Salesforce)
+* Tammy Fox (CloudBees)
+* https://projects.eclipse.org/user/14369[Alexander Schwartz] (community representative)
+* https://projects.eclipse.org/user/14450[Guillaume Grossetie] (community representative)
+* https://projects.eclipse.org/user/14680[Jared Morgan] (community representative)
+
+== Meeting Minutes
+
+This contains all approved meeting minutes of the AsciiDoc WG Steering Group.
+
+// see /data/meeting_minutes.yml for the list's contents
+++++
+{{< meeting_minutes >}}
+++++

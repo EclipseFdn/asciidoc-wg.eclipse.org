@@ -7,6 +7,7 @@ disableKinds = []
 themesDir = "node_modules/"
 enableRobotsTXT = true
 pluralizeListTitles = false
+enableGitInfo = true
 
 [Params]
   google_tag_manager = "GTM-5WLCZXC"
@@ -55,13 +56,13 @@ pluralizeListTitles = false
   name = "About"
   url = "/about"
   weight = 1
- 
+
 [[menu.main]]
   name = "About Us"
   parent = "About"
   url = "/about"
   weight = 1
-  
+
 [[menu.main]]
   name = "FAQ"
   parent = "About"
@@ -73,14 +74,14 @@ pluralizeListTitles = false
   url = "/about"
   weight = 2
   identifier = "about"
-  
+
 [[menu.sidebar]]
   parent ="about"
   name = "About Us"
   url = "/about"
   pre = "<i data-feather=\"users\"></i>" # https://feathericons.com/
   weight = 1
-  
+
 [[menu.sidebar]]
   parent ="about"
   name = "FAQ"
@@ -98,7 +99,7 @@ pluralizeListTitles = false
   url = "/membership/"
   weight = 2
   identifier = "membership"
-  
+
 [[menu.sidebar]]
   parent ="membership"
   name = "Membership Benefits"
@@ -112,6 +113,11 @@ pluralizeListTitles = false
   url = "/membership/members/"
   pre = "<i data-feather=\"zap\"></i>"
   weight = 2
+
+[[menu.main]]
+name = "Steering Group"
+url = "/steeringgroup"
+weight = 1
 
 [markup.asciidocExt]
   # extensions = ["asciidoctor-html5s", "asciidoctor-diagram"]
