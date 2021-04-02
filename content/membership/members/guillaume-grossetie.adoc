@@ -14,7 +14,7 @@ and techniques.
 
 In recent years, he has worked in a wide range of projects using a variety of programming
 languages: Java, Scala, Kotlin, JavaScript, Ruby, Go, Python. Guillaume contributes to many
-open-source projects and has been an active member of the Asciidoctor community for 7+ years.
+open-source projects and has been an active member of the Asciidoctor community since 2013.
 
 He is currently the lead maintainer of Asciidoctor.js and the creator of the Asciidoctor Browser
 Extension, Asciidoctor Web PDF, AsciiDoc Add-on for Google Docs, and lately Kroki.io and also
