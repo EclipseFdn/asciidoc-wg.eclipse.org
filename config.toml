@@ -115,6 +115,11 @@ enableGitInfo = true
   weight = 2
 
 [[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 1
+
+[[menu.main]]
 name = "Steering Group"
 url = "/steeringgroup"
 weight = 1

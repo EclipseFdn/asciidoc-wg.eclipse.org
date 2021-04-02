@@ -1,0 +1,15 @@
+---
+Title: AsciiDoc Language Project
+license: Eclipse Public License 2.0
+is_incubated: true
+# latest_version: 1.0.1
+# download_url: //eclipse.org/downloads
+website: https://projects.eclipse.org/projects/technology.asciidoc
+technology_types: ["Language", "Specification"]
+# build_technologies: ["Jenkins"]
+# other_tags: ["lorem"]
+---
+
+AsciiDoc is a comprehensive, semantic markup language for producing a variety of presentation-rich output formats from content encoded in a concise, human-readable, plain text format.
+It also includes a set of APIs for transforming the encoded content, extending the syntax/grammar and processor lifecycle, and integrating with tools and publishing platforms.
+Teams and individuals use AsciiDoc to write product documentation, technical specifications, architectural guides, scientific and analytical reports, academic courses and training materials, books, and other technical communication.
