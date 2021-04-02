@@ -13,14 +13,17 @@
     "url": "git://github.com/eclipsefdn/asciidoc-wg.eclipse.org.git"
   },
   "scripts": {
-    "dev": "NODE_ENV=development webpack --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "watch": "NODE_ENV=development webpack --watch --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "hot": "NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "production": "NODE_ENV=production webpack --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "postinstall": "NODE_ENV=production npm run production"
+    "dev": "cross-env NODE_ENV=development webpack --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "cross-env NODE_ENV=development webpack --watch --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "hot": "cross-env NODE_ENV=development webpack-dev-server --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "production": "cross-env NODE_ENV=production webpack --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "postinstall": "cross-env NODE_ENV=production npm run production"
   },
   "dependencies": {
     "eclipsefdn-hugo-solstice-theme": "0.0.117"
   },
-  "browserslist": "last 5 version, > 0.2%, not dead, IE 11"
+  "browserslist": "last 5 version, > 0.2%, not dead, IE 11",
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
 }
