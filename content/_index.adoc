@@ -4,11 +4,10 @@ seo_title: "AsciiDoc Working Group"
 headline: "AsciiDoc Working Group"
 tagline: "We drive the standardization, adoption, and evolution of the AsciiDoc language. This includes tools for the language and supporting those who use AsciiDoc for software documentation, applications, and services."
 date: 2020-09-08T11:00:00-04:00
-layout: "single"
 hide_breadcrumb: true
 hide_sidebar: true
 hide_page_title: true
-show_featured_story: true
+show_featured_story: false
 container: "container-fluid"
 links: [[href: "https://www.eclipse.org/org/workinggroups/asciidoc-charter.php", text: "Charter"]]
 ---
