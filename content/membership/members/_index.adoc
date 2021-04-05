@@ -1,6 +1,7 @@
 ---
 title: "Explore Our Members"
 seo_title: "Explore our members - Eclipse AsciiDoc"
+headline: "Our Members"
 description: "Discover our Eclipse AsciiDoc members."
 keywords: ["Eclipse AsciiDoc members", "AsciiDoc open source members", "open source AsciiDoc"]
 aliases:
