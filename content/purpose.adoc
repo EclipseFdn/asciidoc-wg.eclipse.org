@@ -1,0 +1,9 @@
+---
+block_type: "purpose"
+_build:
+  render: never
+---
+
+== Purpose
+
+Our goal is to support the development, deployment, management, and usage of software documentation, applications, and services that use AsciiDoc.
