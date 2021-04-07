@@ -5,7 +5,7 @@ is_incubated: true
 # latest_version: 1.0.1
 # download_url: //eclipse.org/downloads
 website: https://projects.eclipse.org/projects/technology.asciidoc
-technology_types: ["Language", "Specification"]
+technology_types: []
 # build_technologies: ["Jenkins"]
 # other_tags: ["lorem"]
 ---
