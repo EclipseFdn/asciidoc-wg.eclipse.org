@@ -4,8 +4,6 @@ The https://asciidoc-wg.eclipse.org website is generated with https://gohugo.io/
 
 The AsciiDoc Working Group drives the standardization, adoption, and evolution of AsciiDoc. This group encourages and shapes the open, collaborative development of the AsciiDoc language and its processors.
 
-image:https://travis-ci.org/eclipsefdn/asciidoc-wg.eclipse.org.svg?branch=master[Build Status,link=https://travis-ci.org/eclipsefdn/asciidoc-wg.eclipse.org]
-
 == Getting started
 
 === Prerequisites
