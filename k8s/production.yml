@@ -3,6 +3,9 @@ kind: Deployment
 metadata:
   name: asciidoc-wg.eclipse.org
   namespace: foundation-internal-webdev-apps
+  labels:
+    app: asciidoc-wg.eclipse.org
+    environment: production  
 spec:
   selector:
     matchLabels:
