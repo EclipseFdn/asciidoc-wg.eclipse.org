@@ -3,6 +3,9 @@ kind: Deployment
 metadata:
   name: asciidoc-wg-staging.eclipse.org
   namespace: foundation-internal-webdev-apps
+  labels:
+    app: asciidoc-wg.eclipse.org
+    environment: staging
 spec:
   selector:
     matchLabels:
