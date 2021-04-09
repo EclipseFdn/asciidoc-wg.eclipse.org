@@ -8,7 +8,7 @@ more_url: "https://opendevise.com/"
 ---
 
 // description is taken from eclipse.org
-OpenDevise helps organizations achieve faster growth though better documentation.
+OpenDevise helps organizations achieve faster growth through better documentation.
 
 **OpenDevise:
 Tools.
