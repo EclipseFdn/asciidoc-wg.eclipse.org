@@ -4,6 +4,7 @@ _build:
   render: never
 ---
 
-== Purpose
+== Our Purpose
 
-Our goal is to support the development, deployment, management, and usage of software documentation, applications, and services that use AsciiDoc.
+To provide a vendor-neutral space for users, developers, and organizations to drive the standardization, adoption, and evolution of the AsciiDoc language. 
+We support the development, deployment, management, and usage of software documentation, applications, and services that use AsciiDoc by overseeing the specification of the AsciiDoc language, and by organizing interest groups around tools, tooling, and APIs used to produce, analyze, and process content in AsciiDoc.
