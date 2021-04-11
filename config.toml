@@ -120,8 +120,8 @@ url = "/projects/"
 weight = 1
 
 [[menu.main]]
-name = "Steering Group"
-url = "/steeringgroup"
+name = "Committees"
+url = "/committees"
 weight = 1
 
 [markup.asciidocExt]
