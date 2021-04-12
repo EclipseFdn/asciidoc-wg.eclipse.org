@@ -11,13 +11,13 @@ links: [[href: "https://accounts.eclipse.org/contact/membership/asciidoc", text:
 ---
 
 Anyone can contribute to any of the projects of the working group.
-To for the discussions the discussion, join the mailing list of the working group or its projects.
+To participate in the discussions or be informed about important events, join the mailing list of the working group or its projects.
 To contribute code and documentation, sign the Eclipse Contributor Agreement and start contributing.
 
-Once you want to take more responsibility and want to invest more (both in time and resources), the AsciiDoc Working Group Membership is for you.
+Once you're ready to get actively involved by investing time and resources and taking on responsibility, the AsciiDoc Working Group Membership is for you.
 
 Members of the AsciiDoc Working Group drive work of the working group, foster a vibrant and sustainable ecosystem of components and service providers.
-It is a means to organize the community of each project or component so that users and developers define the roadmap collaboratively.
+The group is a means of organizing the AsciiDoc community around a set of projects that advance the AsciiDoc mission and to oversee the collaboration and direction of those projects.
 
 The https://www.eclipse.org/org/workinggroups/asciidoc-charter.php[AsciiDoc Working Group charter] defines three types of members:
 
@@ -25,7 +25,7 @@ Partner members::
 Organizations that view open technical communication standards and technologies as strategic to their organization and are investing significant resources to sustain and shape the activities of this Working Group.
 
 Committer members::
-Individuals who through a process of meritocracy defined by the Eclipse Foundation Development Process are able to contribute and commit content or code to the Eclipse Foundation projects included in the scope of this Working Group.
+Individuals who, through a process of meritocracy defined by the Eclipse Foundation Development Process, are able to contribute and commit content or code to the Eclipse Foundation projects included in the scope of this Working Group.
 
 Guest members::
 Guest Members are organizations which are Associate members of the Eclipse Foundation who have been invited for one year, renewable, by the Steering Committee to participate in particular aspects of the activities of the Working Group.
