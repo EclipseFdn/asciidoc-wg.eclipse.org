@@ -7,6 +7,6 @@ user_id: 14680
 more_url: "https://twitter.com/jaredmorgs"
 ---
 
-// description is taken from nomination for steering group committee
+// description is taken from nomination for steering committee
 Jared Morgan is a Technical Writer with over 17 years of experience and has been an AsciiDoc user for seven years.
 Jared has open source experience and has been an open source contributor for 10 years.

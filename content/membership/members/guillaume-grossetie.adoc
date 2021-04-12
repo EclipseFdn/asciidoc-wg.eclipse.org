@@ -7,7 +7,7 @@ user_id: 14450
 more_url: "https://github.com/Mogztter"
 ---
 
-// description is taken from nomination for steering group committee
+// description is taken from nomination for steering committee
 Guillaume is an enthusiastic software developer with over a decade of experience in the field
 with a strong Java background. He is curious about and loves to learn new languages, tools,
 and techniques.

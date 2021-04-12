@@ -20,9 +20,9 @@ Three elected seats are allocated to Committer Members.
 
 Read more about it in the https://www.eclipse.org/org/workinggroups/asciidoc-charter.php[AsciiDoc Working Group charter].
 
-All steering group meetings are public and will be announced on the https://accounts.eclipse.org/mailing-list/asciidoc-wg[AsciiDoc WG Mailing List].
+All Steering Committee meetings are public and will be announced on the https://accounts.eclipse.org/mailing-list/asciidoc-wg[AsciiDoc WG Mailing List].
 
-The Steering Committee members and its represenatives are as follows:
+The Steering Committee members and its representatives are as follows:
 
 * Couchbase (Amarantha Kulkarni)
 * OpenDevise (https://projects.eclipse.org/user/14176[Dan Allen])
@@ -30,7 +30,7 @@ The Steering Committee members and its represenatives are as follows:
 * VMware (Jay Bryant)
 * Salesforce (https://projects.eclipse.org/user/15332[Steven Anderson])
 * CloudBees (Tammy Fox)
-* https://projects.eclipse.org/user/14369[Alexander Schwartz] (individual committter)
+* https://projects.eclipse.org/user/14369[Alexander Schwartz] (individual committer)
 * https://projects.eclipse.org/user/14450[Guillaume Grossetie] (individual committer)
 * https://projects.eclipse.org/user/14680[Jared Morgan] (individual committer)
 

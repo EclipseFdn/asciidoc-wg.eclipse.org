@@ -7,7 +7,7 @@ user_id: 14369
 more_url: "https://www.ahus1.de"
 ---
 
-// description is taken from nomination for steering group committee
+// description is taken from nomination for steering committee
 While being a Java and JavaScript developer, Alexander has been using Asciidoctor for several years in various projects for documentation.
 It allows Alexander to write reusable content without distraction.
 At conferences Alexander talks about documentation as code and presents deep-dive talks on AsciiDoc.
