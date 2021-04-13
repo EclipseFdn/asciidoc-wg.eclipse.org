@@ -26,7 +26,7 @@ The Steering Committee members and its representatives are as follows:
 
 * Couchbase (Amarantha Kulkarni)
 * OpenDevise (https://projects.eclipse.org/user/14176[Dan Allen])
-* Red Hat (Jason Porter
+* Red Hat (Jason Porter)
 * VMware (Jay Bryant)
 * Salesforce (https://projects.eclipse.org/user/15332[Steven Anderson])
 * CloudBees (Tammy Fox)
