@@ -3,12 +3,12 @@
     <div class="featured-story featured-story-nid-default-featured-story featured-story-light">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12 col-sm-offset-2 col-md-16 col-md-offset-0 featured-story-block featured-story-block-content match-height-item-by-row featured-container">
+                <div class="col-sm-12 col-sm-offset-2 col-md-16 col-md-offset-0 featured-story-block featured-story-block-content featured-container">
                     {{ range where .Site.Pages "Params.block_type" "purpose" }}
                     {{ .Content }}
                     {{ end }}
                 </div>
-                <div class="col-sm-9 col-md-8 featured-side featured-story-block match-height-item-by-row">
+                <div class="col-sm-9 col-md-8 featured-side featured-story-block">
                     <div class="featured-side-content text-center">
                         {{ range where .Site.Pages "Params.block_type" "signup" }}
                         {{ .Content }}
