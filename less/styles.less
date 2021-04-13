@@ -17,15 +17,18 @@
 
 .header-wrapper {
   background-image: url('images/asciidoc-slideshow-bg.jpg');
+
   .featured-jumbotron {
     background-position: center;
+
     .list-inline {
       margin-top: 20px;
     }
 
     p {
       font-weight: 300;
-      &:last-child{
+
+      &:last-child {
         margin-bottom: 0;
       }
     }
@@ -33,6 +36,7 @@
     .btn {
       background-color: @brand-tertiary;
       border-color: @brand-tertiary;
+
       &:hover {
         background-color: darken(@brand-tertiary, 10%);
         border-color: darken(@brand-tertiary, 10%);
@@ -42,6 +46,7 @@
     h1 {
       margin-bottom: 10px;
       margin-top: 50px;
+
       &:after {
         display: none;
       }
@@ -49,10 +54,20 @@
   }
 }
 
+.featured-story-light {
+  .container {
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+}
+
 .featured-side {
   display: flex;
+  flex: 1;
   align-items: center;
-  padding-bottom: 10px;
+  justify-content: center;
 }
 
 .featured-side a {
@@ -66,7 +81,8 @@
 .news-list .news-list-col {
   margin-bottom: 0;
   padding-bottom: 0;
-  h2.heading-line  {
+
+  h2.heading-line {
     text-align: center;
     border-bottom: 1px solid @border-color;
     padding-bottom: 5px;
