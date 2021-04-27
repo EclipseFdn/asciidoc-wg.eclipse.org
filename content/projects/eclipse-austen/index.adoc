@@ -1,0 +1,20 @@
+---
+Title: Eclipse Austen
+license: Eclipse Public License 2.0
+is_incubated: true
+# latest_version: 1.0.1
+# download_url: //eclipse.org/downloads
+website: https://projects.eclipse.org/projects/technology.austen
+repo_url: https://myrepo.com
+technology_types: []
+# build_technologies: ["Jenkins"]
+# other_tags: ["lorem"]
+---
+
+The goal of this project is to provide a native and compatible implementation of the AsciiDoc Language specification that can be run on the Java Virtual Machine (JVM).
+
+This will allow languages such as Java, Kotlin, Groovy, Scala, and JRuby, that run on the JVM, to process AsciiDoc-based documentation as part of a build process or application.
+
+Today these languages can process AsciiDoc using AsciidoctorJ.
+However, AsciidoctorJ relies on JRuby to wrap the Asciidoctor Ruby implementation with a Java API.
+We want to take this opportunity to not only create a compatible implementation, but one that is written directly in Java so it has a lighter footprint and improved performance.
