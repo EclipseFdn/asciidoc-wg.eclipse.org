@@ -1,0 +1,13 @@
+{{ define "main" }}
+  {{ .Content }}
+  {{ $paginator := .Paginate .Data.Pages }}
+  {{ if ne $paginator.NumberOfElements 0 }}
+    <div class="project-summary clearfix">
+      <hr class="hr-border-dotted">
+    </div>
+    {{ range $paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+    {{ template "_internal/pagination.html" . }}
+  {{ end }}
+{{ end }}

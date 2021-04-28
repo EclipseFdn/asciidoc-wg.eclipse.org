@@ -12,4 +12,7 @@ technology_types: []
 
 AsciiDoc is a comprehensive, semantic markup language for producing a variety of presentation-rich output formats from content encoded in a concise, human-readable, plain text format.
 It also includes a set of APIs for transforming the encoded content, extending the syntax/grammar and processor lifecycle, and integrating with tools and publishing platforms.
+
+// <!--more-->
+
 Teams and individuals use AsciiDoc to write product documentation, technical specifications, architectural guides, scientific and analytical reports, academic courses and training materials, books, and other technical communication.
