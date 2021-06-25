@@ -1,3 +1,3 @@
 @Library('common-shared') _
 
-hugoWebsitePipeline appname: 'asciidoc-wg.eclipse.org'
+hugoWebsitePipeline appname: 'asciidoc-wg.eclipse.org', dockerfile: 'Dockerfile'
