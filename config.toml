@@ -31,7 +31,7 @@ enableGitInfo = true
 #  twitter_url = ""
 #  linkedin_url = ""
 #  youtube_url = ""
-  jumbotron_class = "col-xs-24 col-sm-18 col-md-14 col-lg-11 text-left"
+  jumbotron_class = "col-xs-24 col-sm-18 col-md-14 col-lg-12 text-left"
   jumbotron_tagline_class = "col-xs-24 text-left"
 
 [taxonomies]
