@@ -68,6 +68,7 @@ Have a bug or a feature request? Please search for existing and closed issues. I
 
 * Eclipse® is a Trademark of the Eclipse Foundation, Inc.
 * Eclipse Foundation is a Trademark of the Eclipse Foundation, Inc.
+* AsciiDoc® is a Trademark of the Eclipse Foundation, Inc.
 
 == Copyright and license
 

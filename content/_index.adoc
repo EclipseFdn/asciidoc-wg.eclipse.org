@@ -1,8 +1,8 @@
 ---
 title: "AsciiDoc Working Group"
 seo_title: "AsciiDoc Working Group"
-headline: "AsciiDoc Working Group"
-tagline: "We drive the standardization, evolution, and adoption of the AsciiDoc language through open collaboration and open source."
+headline: AsciiDoc Working Group
+tagline: We drive the standardization, evolution, and adoption of the AsciiDoc<sup>®</sup> language through open collaboration and open source.
 date: 2020-09-08T11:00:00-04:00
 hide_breadcrumb: true
 hide_sidebar: true
