@@ -1,5 +1,12 @@
 = asciidoc-wg.eclipse.org
 
+---
+**NOTE**
+
+This project was migrated to [Eclipse Gitlab](https://gitlab.eclipse.org/eclipse-wg/asciidoc-wg/asciidoc-wg.eclipse.org/) on September 21, 2021.
+
+---
+
 The https://asciidoc-wg.eclipse.org website is generated with https://gohugo.io/documentation/[Hugo].
 
 The AsciiDoc Working Group drives the standardization, adoption, and evolution of AsciiDoc. This group encourages and shapes the open, collaborative development of the AsciiDoc language and its processors.
