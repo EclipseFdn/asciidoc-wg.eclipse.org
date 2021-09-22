@@ -129,3 +129,20 @@ weight = 1
 [markup.asciidocExt]
   # extensions = ["asciidoctor-html5s", "asciidoctor-diagram"]
   workingFolderCurrent = true
+
+[[menu.main]]
+  name = "Participate"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Mailing list"
+  parent = "Participate"
+  url = "https://accounts.eclipse.org/mailing-list/asciidoc-wg"
+  weight = 1
+
+[[menu.main]]
+  name = "Issue tracker"
+  parent = "Participate"
+  url = "https://gitlab.eclipse.org/eclipse-wg/asciidoc-wg/asciidoc-wg/-/issues"
+  weight = 1
